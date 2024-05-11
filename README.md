@@ -1,4 +1,4 @@
-1. 
+1. https://www.wikihow.com/Change-the-Timezone-in-Linux
 
 2. 
 
